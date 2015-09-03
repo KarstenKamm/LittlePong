@@ -4,14 +4,14 @@
         ""
     ],
     "companyName": "karsten.kamm@phimobile.com",
-    "longName": "App Tutorial 1",
+    "longName": "Little Pong",
     "projectType": "native",
     "resources": {
         "media": []
     },
     "sdkVersion": "2",
     "shortName": "Pong",
-    "uuid": "6b217f49-d1fa-4fd7-8f1c-27d88e946b51",
+    "uuid": "7c583325-e619-43c5-8462-ab16f5285a1d",
     "versionCode": 1,
     "versionLabel": "1.0",
     "watchapp": {
